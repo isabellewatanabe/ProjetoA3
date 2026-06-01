@@ -8,14 +8,12 @@ Projeto desenvolvido em Java utilizando Programação Orientada a Objetos (POO).
 - Cadastro de Usuários
 - Cadastro de Projetos
 - Cadastro de Equipes
-- Cadastro de Tarefas
 
 ## Classes
 
 - Usuario
 - Projeto
 - Equipe
-- Tarefa
 
 ## Tecnologias Utilizadas
 
